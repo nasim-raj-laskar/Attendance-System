@@ -51,7 +51,7 @@ Here’s a breakdown of the repository contents:
 Ensure you have the following installed:
 
 - 💻 Python 3.8
-- 📖 Required Python libraries (install using `requirements.txt` if available):
+- 📖 Required Python libraries:
   - OpenCV
   - NumPy
   - Scikit-learn
@@ -61,12 +61,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/attendance-recognition.git
+   git clone https://github.com/your-repo/FaceRec-Attendance.git
    cd attendance-recognition
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ### 🚪 Running the Project
