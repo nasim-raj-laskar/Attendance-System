@@ -31,7 +31,7 @@ Here’s a breakdown of the repository contents:
 
 ### 🗞️ Key Files
 
-- **[`Attendance-recognition.py`]([Attendance-recognition.py](https://github.com/nasim-raj-laskar/FaceRec-Attendance/blob/main/Attendence-rcognition.py)**: 🔍 The main script for recognizing student faces and logging attendance into [`attendance_log.csv`](attendance_log.csv).
+- **[`Attendance-recognition.py`](https://github.com/nasim-raj-laskar/FaceRec-Attendance/blob/main/Attendence-rcognition.py)**: 🔍 The main script for recognizing student faces and logging attendance into [`attendance_log.csv`](attendance_log.csv).
 - **[`pre-processing.py`](https://github.com/nasim-raj-laskar/FaceRec-Attendance/blob/main/pre-proccessing.py)**: 🔄 Preprocesses dataset images and generates embeddings for model training.
 - **[`model-training.py`](model-training.py)**: 🏋️‍♂️ Trains the SVC model for facial recognition.
 - **[`recognition.py`](recognition.py)**: 🕵️ A standalone face detection script using data from [`student.csv`](student.csv).
