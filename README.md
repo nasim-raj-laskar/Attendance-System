@@ -20,14 +20,14 @@ Welcome to the **Attendance Recognition System** repository! This project is des
 Here’s a breakdown of the repository contents:
 
 ### 📂 Folders
-- **[`datasets/`](datasets/)**: Contains datasets of student images. These datasets are created using the [`data_creation.py`](data_creation.py) script.
-- **[`model/`](model/)**: Stores pre-trained models:
-  - [`deploy.prototxt.txt`](model/deploy.prototxt.txt)
-  - [`res10_300x300_ssd_iter_140000.caffemodel`](model/res10_300x300_ssd_iter_140000.caffemodel)
-- **[`output/`](output/)**: Stores output embedding files:
-  - [`embeddings.pickle`](output/embeddings.pickle)
-  - [`le.pickle`](output/le.pickle)
-  - [`recognizer.pickle`](output/recognizer.pickle)
+- **[datasets/](datasets/)**: Contains datasets of student images. These datasets are created using the [`data_creation.py`](data_creation.py) script.
+- **[model/](model/)**: Stores pre-trained models:
+  - [deploy.prototxt.txt](model/deploy.prototxt.txt)
+  - [res10_300x300_ssd_iter_140000.caffemodel](model/res10_300x300_ssd_iter_140000.caffemodel)
+- **[output/](output/)**: Stores output embedding files:
+  - [embeddings.pickle](output/embeddings.pickle)
+  - [le.pickle](output/le.pickle)
+  - [recognizer.pickle](output/recognizer.pickle)
 
 ### 🗞️ Key Files
 
@@ -115,7 +115,7 @@ Ensure you have the following installed:
 
 ## 🔧 License
 
-This project is licensed under the MIT License. See the [`LICENSE`](https://github.com/nasim-raj-laskar/FaceRec-Attendance/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/nasim-raj-laskar/FaceRec-Attendance/blob/main/LICENSE) file for more details.
 
 
 
